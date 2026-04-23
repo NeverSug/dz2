@@ -46,8 +46,6 @@
             for ($i = 1; $i <= $n; $i++) {
                 
                 $isEven = ($i & 1) === 0; 
-
-               
                 $rowClass = $isEven ? 'even' : 'odd';
 
                 echo '<tr class="' . $rowClass . '">';

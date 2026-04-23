@@ -52,7 +52,6 @@ switch (is_numeric($input)) {
         break;
 }
 
-
 //----Задание 5------
 
 $isValid = false;
