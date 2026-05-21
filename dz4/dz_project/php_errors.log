@@ -1,0 +1,214 @@
+[20-May-2026 17:36:01 UTC] PHP Warning:  require(C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project/components/functions.php): Failed to open stream: No such file or directory in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php on line 3
+[20-May-2026 17:36:01 UTC] PHP Stack trace:
+[20-May-2026 17:36:01 UTC] PHP   1. {main}() C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php:0
+[20-May-2026 17:36:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project/components/functions.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php on line 3
+[20-May-2026 17:36:01 UTC] PHP Warning:  require(C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project/components/functions.php): Failed to open stream: No such file or directory in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php on line 3
+[20-May-2026 17:36:01 UTC] PHP Stack trace:
+[20-May-2026 17:36:01 UTC] PHP   1. {main}() C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php:0
+[20-May-2026 17:36:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project/components/functions.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php on line 3
+[20-May-2026 19:13:04 UTC] {
+    "message": "Категория с slug 'phpfjf' не найдена",
+    "errorId": "ERR_20260520_191304_6a0e07c03bdaf",
+    "line": 30,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(5): getCategoryBySlug('phpfjf')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('phpfjf')\n#2 {main}"
+}
+[20-May-2026 19:13:39 UTC] {
+    "message": "Категория с slug 'phpjfjf' не найдена",
+    "errorId": "ERR_20260520_191339_6a0e07e33cbf2",
+    "line": 30,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(5): getCategoryBySlug('phpjfjf')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('phpjfjf')\n#2 {main}"
+}
+[20-May-2026 19:13:58 UTC] {
+    "message": "Категория с slug 'phphfhf' не найдена",
+    "errorId": "ERR_20260520_191358_6a0e07f6977a5",
+    "line": 30,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(5): getCategoryBySlug('phphfhf')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('phphfhf')\n#2 {main}"
+}
+[20-May-2026 19:15:12 UTC] {
+    "message": "Категория с slug 'phpjfjfj' не найдена",
+    "errorId": "ERR_20260520_191512_6a0e084067f67",
+    "line": 30,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(5): getCategoryBySlug('phpjfjfj')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('phpjfjfj')\n#2 {main}"
+}
+[20-May-2026 19:15:39 UTC] {
+    "message": "Категория с slug 'phpjdjfjd' не найдена",
+    "errorId": "ERR_20260520_191539_6a0e085b79ca3",
+    "line": 30,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(5): getCategoryBySlug('phpjdjfjd')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('phpjdjfjd')\n#2 {main}"
+}
+[20-May-2026 19:17:35 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #2 ($flags) must be of type int, string given in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:67
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php(67): htmlspecialchars('404', '\xD0\xA1\xD1\x82\xD1\x80\xD0\xB0\xD0\xBD\xD0\xB8\xD1\x86\xD0...')
+#1 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php on line 67
+[20-May-2026 19:20:08 UTC] PHP Fatal error:  Uncaught RuntimeException: Файл не найден in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php:84
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php(64): readFileData('/data/posts2.js...')
+#1 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php(26): getPosts()
+#2 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php on line 84
+[20-May-2026 19:20:08 UTC] PHP Fatal error:  Uncaught RuntimeException: Файл не найден in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php:84
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php(64): readFileData('/data/posts2.js...')
+#1 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php(26): getPosts()
+#2 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php on line 84
+[20-May-2026 19:21:26 UTC] PHP Fatal error:  Uncaught RuntimeException: Файл не найден in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php:89
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php(64): readFileData('/data/posts2.js...')
+#1 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php(26): getPosts()
+#2 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php on line 89
+[20-May-2026 19:21:26 UTC] PHP Fatal error:  Uncaught RuntimeException: Файл не найден in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php:89
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php(64): readFileData('/data/posts2.js...')
+#1 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php(26): getPosts()
+#2 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php on line 89
+[20-May-2026 19:21:27 UTC] PHP Fatal error:  Uncaught RuntimeException: Файл не найден in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php:89
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php(64): readFileData('/data/posts2.js...')
+#1 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php(26): getPosts()
+#2 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php on line 89
+[20-May-2026 19:21:28 UTC] PHP Fatal error:  Uncaught RuntimeException: Файл не найден in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php:89
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php(64): readFileData('/data/posts2.js...')
+#1 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\index.php(26): getPosts()
+#2 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php on line 89
+[20-May-2026 19:22:10 UTC] {
+    "message": "Файл не найден",
+    "errorId": "ERR_20260520_192210_6a0e09e2688f7",
+    "line": 89,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(64): readFileData('\/data\/posts2.js...')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\index.php(7): getPosts()\n#2 {main}"
+}
+[20-May-2026 19:22:10 UTC] {
+    "message": "Файл не найден",
+    "errorId": "ERR_20260520_192210_6a0e09e27c9f1",
+    "line": 89,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(64): readFileData('\/data\/posts2.js...')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\index.php(7): getPosts()\n#2 {main}"
+}
+[20-May-2026 19:22:28 UTC] {
+    "message": "Файл не найден",
+    "errorId": "ERR_20260520_192228_6a0e09f41d12c",
+    "line": 89,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(64): readFileData('\/data\/posts2.js...')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\index.php(7): getPosts()\n#2 {main}"
+}
+[20-May-2026 19:22:29 UTC] {
+    "message": "Файл не найден",
+    "errorId": "ERR_20260520_192229_6a0e09f536b46",
+    "line": 89,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(64): readFileData('\/data\/posts2.js...')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\index.php(7): getPosts()\n#2 {main}"
+}
+[20-May-2026 20:01:40 UTC] {
+    "message": "Категория с slug 'php ll' не найдена",
+    "errorId": "ERR_20260520_200140_6a0e13245f6e0",
+    "line": 30,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(5): getCategoryBySlug('php ll')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('php ll')\n#2 {main}"
+}
+[20-May-2026 20:02:27 UTC] {
+    "message": "Категория с slug 'phpgdfg' не найдена",
+    "errorId": "ERR_20260520_200227_6a0e13530fb4a",
+    "line": 30,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(5): getCategoryBySlug('phpgdfg')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('phpgdfg')\n#2 {main}"
+}
+[20-May-2026 20:14:36 UTC] {
+    "message": "Категория с slug 'phpjfgjfn' не найдена",
+    "errorId": "ERR_20260520_201436_6a0e162c79d1f",
+    "line": 30,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(5): getCategoryBySlug('phpjfgjfn')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('phpjfgjfn')\n#2 {main}"
+}
+[20-May-2026 20:16:14 UTC] {
+    "message": "Категория с slug 'php fvfv' не найдена",
+    "errorId": "ERR_20260520_201614_6a0e168eef813",
+    "line": 30,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(5): getCategoryBySlug('php fvfv')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('php fvfv')\n#2 {main}"
+}
+[20-May-2026 20:18:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php on line 70
+[20-May-2026 20:18:28 UTC] PHP Stack trace:
+[20-May-2026 20:18:28 UTC] PHP   1. {main}() C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:0
+[20-May-2026 20:18:28 UTC] PHP   2. htmlspecialchars($string = NULL) C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:70
+[20-May-2026 20:34:58 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php on line 70
+[20-May-2026 20:34:58 UTC] PHP Stack trace:
+[20-May-2026 20:34:58 UTC] PHP   1. {main}() C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:0
+[20-May-2026 20:34:58 UTC] PHP   2. htmlspecialchars($string = NULL) C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:70
+[20-May-2026 20:35:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php on line 70
+[20-May-2026 20:35:00 UTC] PHP Stack trace:
+[20-May-2026 20:35:00 UTC] PHP   1. {main}() C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:0
+[20-May-2026 20:35:00 UTC] PHP   2. htmlspecialchars($string = NULL) C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:70
+[20-May-2026 20:49:36 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php on line 70
+[20-May-2026 20:49:36 UTC] PHP Stack trace:
+[20-May-2026 20:49:36 UTC] PHP   1. {main}() C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:0
+[20-May-2026 20:49:36 UTC] PHP   2. htmlspecialchars($string = NULL) C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:70
+[20-May-2026 20:49:37 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php on line 70
+[20-May-2026 20:49:37 UTC] PHP Stack trace:
+[20-May-2026 20:49:37 UTC] PHP   1. {main}() C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:0
+[20-May-2026 20:49:37 UTC] PHP   2. htmlspecialchars($string = NULL) C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:70
+[20-May-2026 20:49:38 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php on line 70
+[20-May-2026 20:49:38 UTC] PHP Stack trace:
+[20-May-2026 20:49:38 UTC] PHP   1. {main}() C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:0
+[20-May-2026 20:49:38 UTC] PHP   2. htmlspecialchars($string = NULL) C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\error-tmp.php:70
+[20-May-2026 20:52:50 UTC] {
+    "message": "Категория с slug 'phpjj' не найдена",
+    "errorId": "ERR_20260520_205250_6a0e1f2202826",
+    "line": 47,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(22): getCategoryBySlug('phpjj')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('phpjj')\n#2 {main}"
+}
+[20-May-2026 20:54:13 UTC] PHP Fatal error:  Uncaught TypeError: getPost(): Argument #1 ($id) must be of type int, string given, called in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\post.php on line 20 and defined in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php:69
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\post.php(20): getPost('3fjvns')
+#1 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php on line 69
+[20-May-2026 20:54:17 UTC] PHP Fatal error:  Uncaught TypeError: getPost(): Argument #1 ($id) must be of type int, string given, called in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\post.php on line 20 and defined in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php:69
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\post.php(20): getPost('3fjvns')
+#1 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php on line 69
+[20-May-2026 20:55:05 UTC] {
+    "message": "ID поста должен быть числом",
+    "errorId": "ERR_20260520_205505_6a0e1fa9b3d4d",
+    "line": 13,
+    "trace": "#0 {main}"
+}
+[20-May-2026 20:55:12 UTC] {
+    "message": "ID поста должен быть числом",
+    "errorId": "ERR_20260520_205512_6a0e1fb097edf",
+    "line": 13,
+    "trace": "#0 {main}"
+}
+[20-May-2026 20:55:34 UTC] PHP Fatal error:  Uncaught TypeError: getPost(): Argument #1 ($id) must be of type int, string given, called in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\post.php on line 7 and defined in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php:69
+Stack trace:
+#0 C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\post.php(7): getPost('3\xD0\xB2\xD0\xBB\xD0\xBE\xD1\x81\xD1\x82\xD0\xB2')
+#1 {main}
+  thrown in C:\Users\User\Desktop\ДЗ ТОП\Бэкенд\ДЗ2\dz2\dz4\dz_project\app\functions.php on line 69
+[20-May-2026 20:58:16 UTC] {
+    "message": "ID поста должен быть числом",
+    "errorId": "ERR_20260520_205816_6a0e2068c676a",
+    "line": 13,
+    "trace": "#0 {main}"
+}
+[20-May-2026 20:58:24 UTC] {
+    "message": "ID поста должен быть числом",
+    "errorId": "ERR_20260520_205824_6a0e207057632",
+    "line": 13,
+    "trace": "#0 {main}"
+}
+[20-May-2026 20:59:23 UTC] {
+    "message": "ID поста должен быть числом",
+    "errorId": "ERR_20260520_205923_6a0e20ab09fa4",
+    "line": 13,
+    "trace": "#0 {main}"
+}
+[20-May-2026 21:01:43 UTC] {
+    "message": "Категория с slug 'databasekjkj' не найдена",
+    "errorId": "ERR_20260520_210143_6a0e21372f85f",
+    "line": 47,
+    "trace": "#0 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\app\\functions.php(22): getCategoryBySlug('databasekjkj')\n#1 C:\\Users\\User\\Desktop\\ДЗ ТОП\\Бэкенд\\ДЗ2\\dz2\\dz4\\dz_project\\posts.php(17): getPostsCategoriesBySlug('databasekjkj')\n#2 {main}"
+}
